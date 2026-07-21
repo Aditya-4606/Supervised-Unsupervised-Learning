@@ -1,6 +1,6 @@
 # Supervised_Unsupervised_Learning: Analisis Penjualan Video Game
 
-Repository ini dibuat sebagai pemenuhan Tugas Akhir mata kuliah Fundamental Sains Data[cite: 2]. Proyek ini berfokus pada implementasi **Supervised Learning** dan **Unsupervised Learning** menggunakan dataset penjualan video game global[cite: 1, 2].
+Repository ini dibuat sebagai pemenuhan Tugas Akhir mata kuliah Fundamen Sains Data. Proyek berfokus pada implementasi **Supervised Learning** dan **Unsupervised Learning** menggunakan dataset penjualan video game global.
 
 ## 👥 Anggota Kelompok
 * **Muhammad Farhan Haafidh Abror** (245231105)
