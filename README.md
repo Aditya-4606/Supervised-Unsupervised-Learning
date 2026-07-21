@@ -16,16 +16,16 @@ Proyek ini melakukan analisis data  mulai dari Exploratory Data Analysis (EDA), 
 
 ---
 
-## 📊 Sumber Dataset[cite: 2]
+## 📊 Sumber Dataset
 Dataset yang digunakan dalam proyek ini diunduh secara otomatis menggunakan pustaka `kagglehub`.
 * **Nama Dataset:** Video Game Sales
 * **Sumber:** Kaggle (diunggah oleh *anandshaw2001*)
 * **Path Unduhan Kaggle:** `anandshaw2001/video-game-sales`
-* **Informasi Fitur Utama:** Berisi informasi nama game, platform, tahun rilis, genre, penerbit (publisher), serta detail penjualan dalam jutaan kopi di berbagai wilayah (`NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`). 
+* **Informasi Fitur Utama:** nama game, platform, tahun rilis, genre, penerbit (publisher), dan penjualan dalam jutaan kopi di berbagai wilayah (`NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`). 
 
 ---
 
-## 🚀 Cara Menjalankan Notebook[cite: 2]
+## 🚀 Cara Menjalankan Notebook
 
 Untuk menjalankan source code pada repository ini, ikuti langkah-langkah berikut:
 
